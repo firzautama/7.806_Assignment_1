@@ -1,5 +1,5 @@
 <?php
-  session_start();
+/*  session_start();
 
   require 'database.php';
 
@@ -14,7 +14,7 @@
     if (count($results) > 0) {
       $user = $results;
     }
-  }
+  }*/
 ?>
 
 <!DOCTYPE html>

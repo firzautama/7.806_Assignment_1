@@ -1,5 +1,5 @@
 <?php
-
+/*
   require 'database.php';
 
   $message = '';
@@ -16,7 +16,7 @@
     } else {
       $message = 'Sorry there must have been an issue creating your account';
     }
-  }
+  }*/
 ?>
 <!DOCTYPE html>
 <html>
